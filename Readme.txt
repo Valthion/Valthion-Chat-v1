@@ -8,4 +8,5 @@ Entering a wrong IP address on client.exe will crash the app.
 
 ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 RAR file includes all executables and dependencies needed to run the application.
-If the RAR detected as virus, allow it since antiviruses will block it.
+If the RAR detected as virus, allow it since antiviruses will block it due to false flag.
+It is 100% safe.
